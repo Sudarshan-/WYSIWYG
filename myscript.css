@@ -1,0 +1,14 @@
+#root #univ {
+    display: inline-block;
+    z-index: 100000;
+    height: 22px;
+    width: 26px;
+    background-image: url(chrome-extension://__MSG_@@extension_id__/icon1.png);
+}
+#root #addr {
+    display: inline-block;
+    z-index: 100000;
+    height: 22px;
+    width: 26px;
+    background-image: url(chrome-extension://__MSG_@@extension_id__/icon2.png);
+}
