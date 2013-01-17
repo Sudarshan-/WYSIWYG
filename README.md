@@ -1,7 +1,9 @@
 WYSIWYG
 =======
 
-This adds custom tags to WYSIWYG Editor
+This adds custom tags to WYSIWYG Editor with a toolbar as shown here
+
+![screenshot](http://i.stack.imgur.com/mZmOY.jpg)
 
 Imagine a content on web Page as shown here
 
